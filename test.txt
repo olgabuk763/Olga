@@ -1,2 +1,11 @@
-First text
-Hello world!
+total 72
+-rw------- 1 u0_a585 u0_a585  515 Dec 18 13:35 MyProject091123.c
+-rw------- 1 u0_a585 u0_a585    6 Dec 18 13:33 README.md
+-rw------- 1 u0_a585 u0_a585 6008 Dec 18 13:35 a.out
+-rw------- 1 u0_a585 u0_a585    0 Dec 18 13:35 err.txt
+-rw------- 1 u0_a585 u0_a585    0 Dec 18 13:35 log.txt
+-rw------- 1 u0_a585 u0_a585   72 Dec 18 13:35 res.txt
+-rw------- 1 u0_a585 u0_a585  608 Dec 21 14:30 start.sh
+-rw------- 1 u0_a585 u0_a585  108 Dec 18 13:35 swap.c
+-rw------- 1 u0_a585 u0_a585   27 Dec 18 13:35 swap.h
+-rw------- 1 u0_a585 u0_a585    0 Apr 11 13:07 test.txt
